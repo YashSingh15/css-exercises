@@ -5,6 +5,9 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  border: 2px solid red;
+  display: flex;
+  flex-direction: column;
 }
 
 img {
@@ -24,9 +27,4 @@ input {
   padding: 8px 24px;
   width: 400px;
   margin-bottom: 16px;
-}
-
-.container {
-  display: flex;
-  flex-direction: column;
 }
