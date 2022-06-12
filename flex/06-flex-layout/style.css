@@ -32,3 +32,17 @@ input {
 .content {
   flex-grow: 1;
 }
+
+.header,
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* ul {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 16px;
+  list-style: none;
+} */
