@@ -39,10 +39,10 @@ input {
   justify-content: space-between;
 }
 
-/* ul {
+ul {
   padding: 0;
   margin: 0;
   display: flex;
   gap: 16px;
   list-style: none;
-} */
+}
